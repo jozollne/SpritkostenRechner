@@ -1,0 +1,11 @@
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\bin\Debug\SpritkostenRechner.exe.config
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\bin\Debug\SpritkostenRechner.exe
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\bin\Debug\SpritkostenRechner.pdb
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\obj\Debug\SpritkostenRechner.csproj.AssemblyReference.cache
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\obj\Debug\SpritkostenRechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\obj\Debug\SpritkostenRechner.Form1.resources
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\obj\Debug\SpritkostenRechner.Properties.Resources.resources
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\obj\Debug\SpritkostenRechner.csproj.GenerateResource.cache
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\obj\Debug\SpritkostenRechner.csproj.CoreCompileInputs.cache
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\obj\Debug\SpritkostenRechner.exe
+C:\Users\jozollne\OneDrive\Programieren\C#\Forms\SpritkostenRechner\obj\Debug\SpritkostenRechner.pdb
